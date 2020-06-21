@@ -24,9 +24,10 @@ github_username:  jaeyeon23
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  안녕하세요. 1년차 주니어 백엔드 개발자 입니다.
+  JAVA를 주 언어로 사용하며 여러 프로젝트에서 Spring을 이용해 개발한 경험이 있습니다.
+  개발이란 커뮤니케이션이 중요하다고 생각합니다. 문제 해결을 위해 능동적으로 커뮤니케이션하려고 노력합니다.
+  항상 더 좋은 개발자가 되기 위해 고민하고 공부합니다.
 
 # Projects Section
 # projects_title: Projects
