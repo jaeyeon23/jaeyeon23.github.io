@@ -1,11 +1,21 @@
 - layout: top-middle
+  name: 삼성자산운용 차세대경영지원시스템 구축
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    2020.08 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * 문서 마이그레이션 모듈 개발 (약 30만건)
+    
+- layout: top-middle
   name: 코리아써키트 문서중앙화
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
-    2020.06 ~ 현재
+    2020.06 ~ 2020.08
   description: | # this will include new lines to allow paragraphs
     * 파일 업로드시 문서 DRM 암복호화 모듈 개발
+    * 모바일에서 문서 열람 시 이미지 뷰어로 볼 수 있도록 연동
     
 - layout: top-middle
   name: 공무원연금공단 종합재해보상시스템 구축
